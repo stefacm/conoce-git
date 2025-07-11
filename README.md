@@ -1,1 +1,2 @@
+Hola, mi nombre es Sebastian Obregón y soy dev en Angular 👀
 Hola soy Stefany Cárdenas dev web con React 🤠
